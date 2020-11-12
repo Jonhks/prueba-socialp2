@@ -7,7 +7,30 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.icono{
+  font-size: 1.6rem;
+  margin-top: 1.5%;
+}
+
+.face{
+  color: rgb(70, 106, 226);
+}
+
+.insta{
+  color: rgb(228, 85, 85);
+}
+
+.twitter{
+  color: rgb(49, 128, 247);
 }
